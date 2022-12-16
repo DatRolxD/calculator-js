@@ -4,7 +4,7 @@ Welcome to my JavaScript Calculator Project
 
 If you like my work, don't hesitate and get in touch with me!
 
-===
+---
 
 ## Contact
 
