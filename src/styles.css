@@ -168,3 +168,7 @@ main {
 #numbers-and-operators-grid > button {
   padding: 1rem;
 }
+
+button {
+  cursor: pointer;
+}
